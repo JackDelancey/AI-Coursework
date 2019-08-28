@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PuzzleSolver()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PuzzleSolver\r\n
+comment1.params=a\ b\ c\ d\ e\ f\ g\ h\ i
+comment1.target=void\ puzzle(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=a\ b\ c\ d\ e\ f\ g\ h\ i
+comment2.target=void\ result(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ swap()
+comment4.params=
+comment4.target=void\ solve()
+numComments=5
